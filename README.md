@@ -1,4 +1,10 @@
-helloooo
+# :3
+helloooo  
 im nat
 
-nothing much, really
+i am a computing student in singapore, currently in my third year of secondary school (grade 9/10)
+
+i mostly use python, but i know a little bit of jetpack compose in kotlin.
+
+### badges
+https://www.codewars.com/users/fxg/badges/large?theme=light
