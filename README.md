@@ -7,4 +7,5 @@ i am a computing student in singapore, currently in my third year of secondary s
 i mostly use python, but i know a little bit of jetpack compose in kotlin.
 
 ### badges
-https://www.codewars.com/users/fxg/badges/large?theme=light
+![my codewars badge](https://www.codewars.com/users/fxg/badges/large?theme=light)
+
