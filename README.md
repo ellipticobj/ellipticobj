@@ -12,4 +12,4 @@ i am primarily an english speaker, but i know a little bit of chinese and brazil
 i use light mode and like pink :33  
 i use a m1 macbook air late 2020 for everything  
 i participate in ctfs irregularly  
-hmu on [twitter](http://twitter.com/ellipticobj), [gmail](mailto:ellipticobj@gmail.com) or [discord](discordapp.com/users/973943523655164032)  
+hmu on [twitter](http://twitter.com/ellipticobj), [gmail](mailto:ellipticobj@gmail.com) or [discord](http://discordapp.com/users/973943523655164032)  
