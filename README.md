@@ -9,10 +9,3 @@ i am a computing student in singapore, currently in my third year of secondary s
 i mostly use python, but i know a little bit of jetpack compose in kotlin  
 i am primarily an english speaker, but i know a little bit of chinese and brazilian portuguese  
 i use light mode  
-
-
-### badges
-
-
-
-### socials
