@@ -1,7 +1,7 @@
 # helloooo im [nat](https://en.pronouns.page/@ellipticobj)!!  
 she/her | transgender lesbian  
 
-## a little about me  
+## a little about me!!  
 my name is *natalie luna rios*, but you can call me nat  
 i am a 15 year old trans girl whos into women  
 i like [weird noise](https://www.last.fm/user/ellipticobj/)  
@@ -28,17 +28,17 @@ headphones: white [logitech zone vibe 100](https://headphones.sg/logitech-zone-v
             blue and raspberry [logi g 435](https://www.logitechg.com/en-sg/products/gaming-audio/g435-wireless-bluetooth-gaming-headset.html) (for collecting dust in a drawer)
 
 ## links
-[email](mailto:ellipticobj@gmail.com): [ellipticobj@gmail.com](mailto:ellipticobj@gmail.com)
-sms/[whatsapp](https://wa.link/9gh6go)/[telegram](http://t.me/ellipticobj): +65 8048 7473
-[discord](http://discordapp.com/users/973943523655164032): fxg4
-[bluesky](http://xfz.bsky.social): @xfz.bsky.social
-[twitter](http:?/twitter.com/ellipticobj): @ellipticobj (rarely active)
-[github](http://github.com/ellipticobj): @ellipticobj
-[last.fm](http://last.fm/user/ellipticobj): @ellipticobj
-[anilist](http://anilist.co/user/ellipticobj): @ellipticobj
-[steam](http://steamcommunity.com/id/ellipticobj): @ellipticobj
-[instagram](http://instagram.com/ellipticobjs): @ellipticobjs
-no linkedin yet because i dont have my nric :(
+[email](mailto:ellipticobj@gmail.com): [ellipticobj@gmail.com](mailto:ellipticobj@gmail.com)  
+sms/[whatsapp](https://wa.link/9gh6go)/[telegram](http://t.me/ellipticobj): +65 8048 7473  
+[discord](http://discordapp.com/users/973943523655164032): fxg4  
+[bluesky](http://xfz.bsky.social): @xfz.bsky.social  
+[twitter](http:?/twitter.com/ellipticobj): @ellipticobj (rarely active)  
+[github](http://github.com/ellipticobj): @ellipticobj  
+[last.fm](http://last.fm/user/ellipticobj): @ellipticobj  
+[anilist](http://anilist.co/user/ellipticobj): @ellipticobj  
+[steam](http://steamcommunity.com/id/ellipticobj): @ellipticobj  
+[instagram](http://instagram.com/ellipticobjs): @ellipticobjs  
+no linkedin yet because i dont have my nric :(  
 
 ## stuffs
 ### music
