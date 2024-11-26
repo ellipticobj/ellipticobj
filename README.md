@@ -1,6 +1,6 @@
-# helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color:#70305a;">nat</a>!! 💖
-![certified dumbass](https://img.shields.io/badge/certified%20dumbass-b33b72?style=for-the-badge&logoColor=white)
+# helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color:#70305a;">nat</a>!! 💖  
 she/her | transgender lesbian 🌸  
+![certified dumbass](https://img.shields.io/badge/she%2fher-transgender_lesbian-b33b72?style=for-the-badge&logoColor=white)  
 
 ## 💫 a little about me!!  
 my name is **natalie luna rios**, but you can call me nat  
