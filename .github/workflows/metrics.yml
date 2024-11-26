@@ -1,11 +1,9 @@
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: NOT_NEEDED
-  base: ""
-  base: header, repositories
-  plugin_lines: yes
-  plugin_anilist: yes
-  plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, watching, characters
+- name: anime
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics.plugin.anilist.svg
+    token: NOT_NEEDED
+    base: ""
+    plugin_anilist: yes
+    plugin_anilist_medias: anime
+    plugin_anilist_sections: favorites, watching, characters
