@@ -1,5 +1,4 @@
 name: metrics
-run-name: meow meow meow
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -13,7 +12,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GH_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
