@@ -58,7 +58,7 @@ what i use:
 [fluidac](https://github.com/imjyotiraditya/fluidac-releases)  
 [steamrip](https://github.com/nathom/streamrip)  
 
-![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=70305a)
+![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=b33b72)
 
 ### anime
 ![anime stats](.github/assets/metrics.plugin.anilist.svg)
