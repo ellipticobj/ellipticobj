@@ -18,7 +18,4 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
 
-      - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@latest
-
             

@@ -39,7 +39,7 @@ blue and raspberry [logi g 435](https://www.logitechg.com/en-sg/products/gaming-
 [![anilist](https://img.shields.io/badge/AniList-79305a?style=for-the-badge&logo=AniList&logoColor=white)](http://anilist.co/user/ellipticobj)
 [![steam](https://img.shields.io/badge/Steam-79305a?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/id/ellipticobj)
 [![insta](https://img.shields.io/badge/Instagram-79305a?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/ellipticobjs)
-[![tidal](https://img.shields.io/badge/Tidal-79305a?style=for-the-badge&logo=Tidal&logoColor=white)](https://listen.tidal.com/user/201427455)
+[![tidal](https://img.shields.io/badge/Tidal-79305a?style=for-the-badge&logo=Tidal&logoColor=white)](https://listen.tidal.com/user/201427455)  
 no linkedin yet because i dont have my nric :(  
 
 [comment]: <> (icons from https://github.com/alexandresanlim/Badges4-README.md-Profile)
