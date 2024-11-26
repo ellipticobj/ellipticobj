@@ -55,7 +55,3 @@ what i use:
 
 ### anime
 ![anime stats](.github/assets/metrics.plugin.anilist.svg)
-
-### wakatime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
