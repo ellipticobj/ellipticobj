@@ -2,7 +2,7 @@
 she/her | transgender lesbian  
 
 ## a little about me!!  
-my name is *natalie luna rios*, but you can call me nat  
+my name is **natalie luna rios**, but you can call me nat  
 i am a 15 year old trans girl whos into women  
 i like [weird noise](https://www.last.fm/user/ellipticobj/)  
 i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
