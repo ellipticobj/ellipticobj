@@ -1,4 +1,4 @@
-# helloooo im [nat](https://en.pronouns.page/@ellipticobj)!!  
+# helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color: #b33b72;">nat</a>!!  
 she/her | transgender lesbian  
 
 ## a little about me!!  
