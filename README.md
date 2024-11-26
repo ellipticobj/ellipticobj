@@ -55,3 +55,7 @@ what i use:
 
 ### anime
 ![anime stats](/.github/workflows/metrics.classic.svg)
+
+### wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
