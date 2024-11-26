@@ -54,7 +54,7 @@ what i use:
 ![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=572649)
 
 ### anime
-![anime stats](/.github/workflows/metrics.classic.svg)
+![anime stats](.github/assets/metrics.plugin.anilist.svg)
 
 ### wakatime
 <!--START_SECTION:waka-->

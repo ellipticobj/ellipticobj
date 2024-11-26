@@ -15,7 +15,7 @@ jobs:
       - name: anime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.svg
+          filename: .github/assets/metrics.plugin.anilist.svg
           token: ${{ secrets.GH_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
