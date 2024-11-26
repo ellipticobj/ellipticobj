@@ -16,9 +16,10 @@ i can do some basic web dev using html, css and js
 i sleep  
 
 ## my interests
-i like making random useless stuffs with python
-i occasionally make some tools for myself or edit open foss projects 
-i like participating in ctf competitions
+i like making random useless stuffs with python  
+i occasionally make some tools for myself or edit open foss projects  
+i like participating in ctf competitions  
+i enjoy music :)  
 bad financial decisions
 
 ## my setup  
