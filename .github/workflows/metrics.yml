@@ -1,9 +1,20 @@
-- name: anime
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics.plugin.anilist.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_anilist: yes
-    plugin_anilist_medias: anime
-    plugin_anilist_sections: favorites, watching, characters
+name: metrics
+on:
+  schedule:
+    - cron: "30 1 * * *"
+#  workflow_call:
+#    secrets:
+
+jobs: 
+  animestats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: anime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching, characters
