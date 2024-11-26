@@ -1,4 +1,4 @@
-# helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color: #b33b72;">nat</a>!!  
+# helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color:#70305a;">nat</a>!!  
 she/her | transgender lesbian  
 
 ## a little about me!!  
@@ -54,7 +54,7 @@ what i use:
 [fluidac](https://github.com/imjyotiraditya/fluidac-releases)
 [steamrip](https://github.com/nathom/streamrip)
 
-![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=572649)
+![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=70305a)
 
 ### anime
 ![anime stats](.github/assets/metrics.plugin.anilist.svg)
