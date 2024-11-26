@@ -17,6 +17,7 @@ jobs:
         with:
           filename: .github/assets/metrics.plugin.anilist.svg
           token: ${{ secrets.GH_TOKEN }}
+          base: header
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
