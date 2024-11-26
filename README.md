@@ -19,15 +19,12 @@ i sleep
 bad financial decisions
 
 ## my setup  
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![]()
-workstation:  
-[m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) 8gb/256gb for everything   
-phone:  
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![]()  
+[m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) 8gb/256gb for everything  
 rose [google pixel 8](https://www.gsmarena.com/google_pixel_8-12546.php) 128gb  
 aurora black [lg v30+](https://www.gsmarena.com/lg_v30-8712.php#us998) (originally l01k ntt docomo frankensteined to unlocked us99820e) for music  
-earphones: [kz zsn pro 2](https://kz-audio.com/kz-zsn-pro-2.html) (for music)  
-headphones:  
-white [logitech zone vibe 100](https://headphones.sg/logitech-zone-vibe-100-wireless-bluetooth-headset-graphite/) (for youtube on my phone)  
+[kz zsn pro 2](https://kz-audio.com/kz-zsn-pro-2.html) (for music)  
+white [logitech zone vibe 100](https://headphones.sg/logitech-zone-vibe-100-wireless-bluetooth-headset-graphite/) (for youtube on my phone)   
 black [jbl quantum 100](https://www.jbl.com.sg/gaming/QUANTUM100.html) (for discord vcs and movies on my mac)  
 blue and raspberry [logi g 435](https://www.logitechg.com/en-sg/products/gaming-audio/g435-wireless-bluetooth-gaming-headset.html) (for collecting dust in a drawer)  
 
@@ -42,7 +39,7 @@ blue and raspberry [logi g 435](https://www.logitechg.com/en-sg/products/gaming-
 [![anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white)](http://anilist.co/user/ellipticobj)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/id/ellipticobj)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/ellipticobjs)
-[![tidal]()](https://listen.tidal.com/user/201427455)
+[![tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://listen.tidal.com/user/201427455)
 no linkedin yet because i dont have my nric :(  
 
 [comment]: <> (icons from https://github.com/alexandresanlim/Badges4-README.md-Profile)
