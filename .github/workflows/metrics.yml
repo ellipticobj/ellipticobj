@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
-#  workflow_call:
-#    secrets:
 
 jobs: 
   animestats:
@@ -16,7 +14,6 @@ jobs:
         with:
           filename: metrics.plugin.anilist.svg
           token: NOT_NEEDED
-          base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
