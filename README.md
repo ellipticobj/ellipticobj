@@ -20,9 +20,9 @@ i like making random useless stuffs with python
 i occasionally make some tools for myself or edit open foss projects  
 i like participating in ctf competitions  
 i enjoy music :)  
-bad financial decisions
+bad financial decisions  
 
-## 💫 my setup  
+## 🔌 my setup  
 ![android](https://img.shields.io/badge/Android-b33b72?style=for-the-badge&logo=android&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-b33b72?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-b33b72?style=for-the-badge&logo=kali-linux&logoColor=white) ![]()  
 👩‍💻 [m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) 8gb/256gb for everything  
 💻 [kali linux](https://www.kali.org/) on [utm](https://getutm.app/) for ctf competitions and stuff i cant do on a mac
@@ -34,7 +34,7 @@ bad financial decisions
 🎧 black [jbl quantum 100](https://www.jbl.com.sg/gaming/QUANTUM100.html) (for discord vcs and movies on my mac)  
 🎧 blue and raspberry [logi g 435](https://www.logitechg.com/en-sg/products/gaming-audio/g435-wireless-bluetooth-gaming-headset.html) (for collecting dust in a drawer)  
 
-## links
+## 🔗 links
 [![email](https://img.shields.io/badge/Gmail-b33b72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellipticobj@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-b33b72?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/9gh6go)
 [![telegram](https://img.shields.io/badge/Telegram-b33b72?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/ellipticobj)
@@ -51,7 +51,7 @@ no linkedin yet because i dont have my nric :(
 [comment]: <> (icons from https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ## 💫 stuffs
-### music
+### 🎶 music
 what i use: 
 [musicolet](https://krosbits.in/musicolet/)  
 [fluidac](https://github.com/imjyotiraditya/fluidac-releases)  
@@ -59,5 +59,6 @@ what i use:
 
 ![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=b33b72)
 
-### anime
+### 📹 anime
 ![anime stats](.github/assets/metrics.plugin.anilist.svg)
+
