@@ -25,8 +25,8 @@ bad financial decisions
 ## 🔌 my setup  
 ![android](https://img.shields.io/badge/Android-b33b72?style=for-the-badge&logo=android&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-b33b72?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-b33b72?style=for-the-badge&logo=kali-linux&logoColor=white) ![]()  
 👩‍💻 [m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) 8gb/256gb for everything  
-💻 [kali linux](https://www.kali.org/) on [utm](https://getutm.app/) for ctf competitions and stuff i cant do on a mac
-💻 [whiskey](https://getwhisky.app/) to run .exes and games
+💻 [kali linux](https://www.kali.org/) on [utm](https://getutm.app/) for ctf competitions and stuff i cant do on a mac  
+💻 [whiskey](https://getwhisky.app/) to run .exes and games  
 📱 rose [google pixel 8](https://www.gsmarena.com/google_pixel_8-12546.php) 128gb running android 15  
 🎶 aurora black [lg v30+](https://www.gsmarena.com/lg_v30-8712.php#us998) (originally l01k ntt docomo frankensteined to unlocked us99820e) running android 8.0 for music  
 🎧 [kz zsn pro 2](https://kz-audio.com/kz-zsn-pro-2.html) (for music)  
