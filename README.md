@@ -50,7 +50,7 @@ no linkedin yet because i dont have my nric :(
 
 ## 💫 stuffs
 ### stats 📈
-![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj?theme=rose)
+![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj&theme=rose)
   
 ### 🎶 music
 what i use: 
