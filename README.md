@@ -49,6 +49,9 @@ no linkedin yet because i dont have my nric :(
 [comment]: <> (icons from https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ## 💫 stuffs
+### stats 📈
+![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj?theme=rose)
+  
 ### 🎶 music
 what i use: 
 [musicolet](https://krosbits.in/musicolet/)  
