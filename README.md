@@ -52,7 +52,7 @@ no linkedin yet because i dont have my nric :(
 ### stats 📈
 ![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj&theme=rose&show_icons=true)
 ![nat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellipticobj&theme=rose&show_icons=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellipticobj&langs_count=8&theme=rose&show_icons=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellipticobj&langs_count=8&theme=rose&show_icons=true&layout=compact)
   
 ### 🎶 music
 what i use: 
