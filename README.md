@@ -23,7 +23,7 @@ i enjoy music :)
 bad financial decisions  
 
 ## 🔌 my setup  
-![android](https://img.shields.io/badge/Android-b33b72?style=for-the-badge&logo=android&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-b33b72?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-b33b72?style=for-the-badge&logo=kali-linux&logoColor=white) ![asahi](https://img.shields.io/badge/fedora_asahi-b33b72?style=for-the-badge&logo=fedora-linux&logoColor=white)  
+![rising](https://img.shields.io/badge/RisingOS-b33b72?style=for-the-badge&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-b33b72?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-b33b72?style=for-the-badge&logo=kali-linux&logoColor=white) ![asahi](https://img.shields.io/badge/fedora_asahi-b33b72?style=for-the-badge&logo=fedora-linux&logoColor=white)  
 👩‍💻 [m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) dualbooting macos and [asahi linux](https://alx.sh/) 8gb/256gb for everything  
 💻 [kali linux](https://www.kali.org/) on [utm](https://getutm.app/) for ctf competitions and stuff i cant do on a mac  
 💻 [whiskey](https://getwhisky.app/) to run .exes and games  
