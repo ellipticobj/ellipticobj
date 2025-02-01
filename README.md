@@ -2,12 +2,11 @@
 ![certified dumbass](https://img.shields.io/badge/she%2fher-b33b72?style=for-the-badge&logoColor=white&labelcolor=black) ![im gay](https://img.shields.io/badge/transfem_lesbian-b33b72?style=for-the-badge&logoColor=white&labelcolor=black)  
 
 ## 🌸 a little about me!!  
-my name is **natalie luna rios**, but you can call me nat  
-i am a 15 year old trans girl whos into women  
+my name is **natalie luna rios**, but you can call me [nat](https://en.pronouns.page/@ellipticobj)  
+i am a 16 year old girl whos into one [boygirl](https://en.pronouns.page/@audhdom)
 i study in the school of science and technology, singapore  
 i like [weird noise](https://www.last.fm/user/ellipticobj/)  
 i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
-i love my [boygirlfriend](https://en.pronouns.page/@audhdom)
 
 ## 💡 what i can do  
 i am decent at python  
