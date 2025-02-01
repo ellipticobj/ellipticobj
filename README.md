@@ -3,7 +3,7 @@
 
 ## 🌸 a little about me!!  
 my name is **natalie luna rios**, but you can call me [nat](https://en.pronouns.page/@ellipticobj)  
-i am a 16 year old girl whos into one [boygirl](https://en.pronouns.page/@audhdom)
+i am a 16 year old girl whos into one [boygirl](https://en.pronouns.page/@audhdom)  
 i study in the school of science and technology, singapore  
 i like [weird noise](https://www.last.fm/user/ellipticobj/)  
 i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
