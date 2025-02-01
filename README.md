@@ -1,9 +1,10 @@
 # helloooo im <a href="https://en.pronouns.page/@ellipticobj" style="color:#70305a;">nat</a>!! 💖  
-![certified dumbass](https://img.shields.io/badge/she%2fher-b33b72?style=for-the-badge&logoColor=white&labelcolor=black) ![certified dumbass](https://img.shields.io/badge/transgender_lesbian-b33b72?style=for-the-badge&logoColor=white&labelcolor=black)  
+![certified dumbass](https://img.shields.io/badge/she%2fher-b33b72?style=for-the-badge&logoColor=white&labelcolor=black) ![im gay](https://img.shields.io/badge/transfem_lesbian-b33b72?style=for-the-badge&logoColor=white&labelcolor=black)  
 
 ## 🌸 a little about me!!  
 my name is **natalie luna rios**, but you can call me nat  
 i am a 15 year old trans girl whos into women  
+i study in the school of science and technology, singapore  
 i like [weird noise](https://www.last.fm/user/ellipticobj/)  
 i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
 i love my [boygirlfriend](https://en.pronouns.page/@audhdom)
