@@ -22,32 +22,6 @@ i like participating in ctf competitions
 i enjoy music :)  
 bad financial decisions  
 
-## 🔌 my setup  
-![rising](https://img.shields.io/badge/RisingOS-b33b72?style=for-the-badge&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-b33b72?style=for-the-badge&logo=apple&logoColor=white) ![kali](https://img.shields.io/badge/Kali_Linux-b33b72?style=for-the-badge&logo=kali-linux&logoColor=white) ![asahi](https://img.shields.io/badge/fedora_asahi-b33b72?style=for-the-badge&logo=fedora-linux&logoColor=white)  
-👩‍💻 [m1 macbook air (late 2020)](https://support.apple.com/kb/SP825?locale=en_SG) dualbooting macos and [asahi linux](https://alx.sh/) 8gb/256gb for everything  
-💻 [kali linux](https://www.kali.org/) on [utm](https://getutm.app/) for ctf competitions and stuff i cant do on a mac  
-💻 [whiskey](https://getwhisky.app/) to run .exes and games  
-📱 rose [google pixel 8](https://www.gsmarena.com/google_pixel_8-12546.php) 128gb running [risingos](https://github.com/RisingTechOSS/android)
-🎶 aurora black [lg v30+](https://www.gsmarena.com/lg_v30-8712.php#us998) (originally l01k ntt docomo frankensteined to unlocked us99820e) running android 8.0 for music  
-🎧 [kz zsn pro 2](https://kz-audio.com/kz-zsn-pro-2.html) (for music)  
-🎧 [moondrop nekocake](https://moondroplab.com/en/products/nekocake) (qbz191 collab) for my pixel
-
-## 🔗 links
-[![email](https://img.shields.io/badge/Gmail-b33b72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellipticobj@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-b33b72?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/9gh6go)
-[![telegram](https://img.shields.io/badge/Telegram-b33b72?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/ellipticobj)
-[![discord](https://img.shields.io/badge/Discord-b33b72?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/973943523655164032)
-[![bsky](https://img.shields.io/badge/Bluesky-b33b72?logo=bluesky&logoColor=fff&style=for-the-badge)](http://xfz.bsky.social)
-[![twt](https://img.shields.io/badge/Twitter-b33b72?style=for-the-badge&logo=twitter&logoColor=white)](http:?/twitter.com/ellipticobj)
-[![last.fm](https://img.shields.io/badge/last.fm-b33b72?style=for-the-badge&logo=last.fm&logoColor=white)](http://last.fm/user/ellipticobj)
-[![anilist](https://img.shields.io/badge/AniList-b33b72?style=for-the-badge&logo=AniList&logoColor=white)](http://anilist.co/user/ellipticobj)
-[![steam](https://img.shields.io/badge/Steam-b33b72?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/id/ellipticobj)
-[![insta](https://img.shields.io/badge/Instagram-b33b72?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/ellipticobjs)
-[![tidal](https://img.shields.io/badge/Tidal-b33b72?style=for-the-badge&logo=Tidal&logoColor=white)](https://listen.tidal.com/user/201427455)  
-no linkedin yet because i dont have my nric :(  
-
-[comment]: <> (icons from https://github.com/alexandresanlim/Badges4-README.md-Profile)
-
 ## 💫 stuffs
 ### stats 📈
 ![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj&show_icons=true&count_private=true&theme=rose)  
