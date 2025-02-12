@@ -22,19 +22,9 @@ i like participating in ctf competitions
 i enjoy music :)  
 bad financial decisions  
 
-## 💫 stuffs
-### stats 📈
+## stats 📈
 ![nat's github stats](https://github-readme-stats.vercel.app/api?username=ellipticobj&show_icons=true&count_private=true&theme=rose)  
 ![nat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ellipticobj&theme=rose&show_icons=true)  
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellipticobj&langs_count=8&theme=rose&show_icons=true&layout=compact)  
-  
-### 🎶 music
-what i use: 
-[musicolet](https://krosbits.in/musicolet/)  
-[fluidac](https://github.com/imjyotiraditya/fluidac-releases)  
-[steamrip](https://github.com/nathom/streamrip)  
-
 ![last.fm shenanigans](https://lastfm-recently-played.vercel.app/api?user=ellipticobj&count=4&width=600&loved=true&show_user=footer&header_style=normal_stats&footer_style=normal&loved_style=4&bg_color=b33b72)
-
-### 📹 anime
 ![anime stats](.github/assets/metrics.plugin.anilist.svg)
