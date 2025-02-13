@@ -78,7 +78,3 @@ bad financial decisions
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ellipticobj/ellipticobj/output/snake.svg" alt="Snake animation" />
-
-###
