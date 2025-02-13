@@ -1,8 +1,8 @@
-<h2 align="left">helloooo im luna!! 💖</h2>
+<h1 align="left">helloooo im luna!! 💖</h1>
 
 ![certified dumbass](https://img.shields.io/badge/she%2fher-b33b72?style=for-the-badge&logoColor=white&labelcolor=black) ![im gay](https://img.shields.io/badge/transfem_lesbian-b33b72?style=for-the-badge&logoColor=white&labelcolor=black)  
 
-## 💫 my interests
+## 💫 about me
 i like making random useless stuffs with python  
 i occasionally make some tools for myself or edit open foss projects  
 i like participating in ctf competitions  
