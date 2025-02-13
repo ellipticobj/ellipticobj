@@ -3,11 +3,22 @@
 ![certified dumbass](https://img.shields.io/badge/she%2fher-b33b72?style=for-the-badge&logoColor=white&labelcolor=black) ![im gay](https://img.shields.io/badge/transfem_lesbian-b33b72?style=for-the-badge&logoColor=white&labelcolor=black)  
 
 ## 💫 about me
+i study in the school of science and technology, singapore  
 i make random mini projects in python for fun  
 occasionally i make tools for myself  
 i like participating in ctf competitions  
 i enjoy music :)  
 bad financial decisions  
+[boygirlfriend.](https://en.pronouns.page/@audhdom)  
+i like [weird noise](https://www.last.fm/user/ellipticobj/)  
+i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
+
+## 💡 what i can do  
+i am decent at python  
+i have a tiny bit of experience with app dev using swiftui and jetpack compose  
+i occasionally do ctfs with my friends (although im kinda bad at it)  
+i can do some basic web dev using html, css and js  
+i sleep  
 
 ###
 
