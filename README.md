@@ -11,7 +11,7 @@ bad financial decisions
 
 ###
 
-<img align="right" height="350" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
