@@ -20,7 +20,7 @@ bad financial decisions
   <img src="https://streak-stats.demolab.com?user=ellipticobj&locale=en&mode=daily&theme=rose&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellipticobj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose&hide_border=false" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellipticobj&" height="180" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ellipticobj&theme=chalk&column=3&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ellipticobj&theme=chalk&column=10&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
