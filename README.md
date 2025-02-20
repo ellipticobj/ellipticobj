@@ -22,7 +22,7 @@ i sleep
 
 ###
 
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
     <td valign="top" align="left">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U082G71UZBK&api_domain=waka.hackclub.com&bg_color=E9D8D4&title_color=2F855A&icon_color=862931&text_color=862931&custom_title=wakatime%20:3" alt="wakatime" />
@@ -35,7 +35,6 @@ i sleep
   </tr>
 </table>
 
-
 <!--
 <div align="right">
   <img height="300" src="https://i.imgflip.com/65efzo.gif"  />
@@ -47,13 +46,13 @@ i sleep
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U082G71UZBK&api_domain=waka.hackclub.com&bg_color=E9D8D4&title_color=2F855A&icon_color=862931&text_color=862931&custom_title=wakatime%20:3"  />
-</div>
+</div> -->
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ellipticobj/count.svg?"  />
-</div> -->
+</div>
 
 ###
 
