@@ -29,8 +29,7 @@ i sleep
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ellipticobj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose&locale=en&hide_border=false&custom_title=luna" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellipticobj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose&hide_border=false" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellipticobj&" height="160" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U082G71UZBK&api_domain=waka.hackclub.com&bg_color=E9D8D4&title_color=2F855A&icon_color=862931&text_color=862931&custom_title=wakatime%20:3&layout=compact"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U082G71UZBK&api_domain=waka.hackclub.com&bg_color=E9D8D4&title_color=2F855A&icon_color=862931&text_color=862931&custom_title=wakatime%20:3"  />
 </div>
 
 ###
