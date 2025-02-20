@@ -31,8 +31,8 @@ i sleep
   <img src="https://streak-stats.demolab.com?user=ellipticobj&locale=en&mode=daily&theme=rose&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellipticobj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose&hide_border=false" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellipticobj&" height="160" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ellipticobj&theme=chalk&column=45&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U082G71UZBK&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=wakatime%20:3&layout=compact"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ellipticobj&theme=chalk&column=4&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
