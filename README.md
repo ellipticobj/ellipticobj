@@ -80,9 +80,17 @@ i sleep
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nim/FFE953" height="30" alt="nim logo"  />
+  <img src="https://cdn.simpleicons.org/rust/#000000" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
 ###
