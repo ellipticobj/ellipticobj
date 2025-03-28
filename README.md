@@ -80,7 +80,7 @@ i sleep
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/#000000" height="30" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="30" alt="neovim logo"  />
   <img width="12" />
