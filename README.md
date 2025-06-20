@@ -12,8 +12,7 @@ i like [weird noise](https://www.last.fm/user/ellipticobj/)
 i occasionally watch [anime](https://anilist.co/user/ellipticobj/)  
 
 ## 💡 what i can do  
-i am decent at python  
-im learning rust!  
+i am decent at python and rust!  
 i have a tiny bit of experience with app dev using swiftui and jetpack compose  
 i occasionally do ctfs with my friends (although im kinda bad at it)  
 i can do some basic web dev using html, css and js  
